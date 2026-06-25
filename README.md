@@ -13,12 +13,13 @@ I am a pre-final year B.Tech student at **Babu Banarasi Das University**, passio
 ---
 
 ## 🚀 Key Projects
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 SmartDoc AI** | A **RAG-based** document assistant that lets you "chat" with PDFs using **Gemini API**. | Python, LangChain, FAISS, Streamlit |
-| **👁️ GuardianEye** | Intelligent surveillance system with **60+ FPS** face detection & recognition. | Python, MediaPipe, OpenCV |
-| **🩻 MedVision** | Multi-disease detection (Covid, TB, Pneumonia) from X-Rays with **92% Accuracy**. | TensorFlow, CNN, VGG16 |
-| **🎓 BBD Student Hub** | A centralized resource portal for university students (PYQs, Notes). | HTML, CSS, JS |
+| **🚀 Enterprise Hybrid RAG Engine** | Production-grade decoupled RAG engine executing parallel candidate queries via dual indices (**ChromaDB HNSW + Inverted BM25**) fused using **Reciprocal Rank Fusion (RRF)**. Mitigates layout extraction bugs via regex normalization filters and features a neural **Cross-Encoder re-ranking node** to eliminate hallucination vectors with automated citation traces (**Faithfulness: 0.94**, **Recall: 0.89**). | Python, FastAPI, Streamlit, ChromaDB, Rank-BM25, Cross-Encoder, Groq API, Docker |
+| **👁️ GuardianEye** | Intelligent surveillance system optimized for resource-constrained edge systems, driving real-time facial feature extraction and automated token verification layers with low-latency execution metrics at **60+ FPS**. | Python, MediaPipe, OpenCV, Deep Learning |
+| **🩻 MedVision** | Multi-class deep convolutional neural network (CNN) deployment trained on medical radiograph matrices to detect pulmonary pathology anomalies (Covid-19, TB, Pneumonia) achieving a binary evaluation validation **Accuracy of 92%**. | TensorFlow, Keras, CNN, VGG16, Python |
+| **🎓 BBD Student Hub** | A centralized resource routing architecture engineered to deliver localized static asset distributions, structured documentation grids, and academic reference indices for university peers. | HTML5, CSS3, JavaScript (ES6) |
 
 ---
 
