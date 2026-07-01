@@ -2,7 +2,7 @@
 ### Hi there, I'm Divyanshu Yadav 👋
 **AI Engineer | Production GenAI & Agentic Systems**
 
-I am a pre-final year B.Tech student at **Babu Banarasi Das University** specializing in Artificial Intelligence. I focus heavily on solving critical production bottlenecks in Generative AI—specifically around architectural optimization, LLM evaluation, and inference cost reduction.
+I am a pre-final year B.Tech student at **Babu Banarasi Das University** specializing in Artificial Intelligence. I focus heavily on solving critical production bottlenecks in Generative AI, specifically around architectural optimization, LLM evaluation, and inference cost reduction.
 
 - 🔭 I’m currently building **Advanced Multi-Agent Frameworks** and **Stateful RAG Engines**.
 - 🌱 I’m currently mastering **Enterprise System Design & LLM-as-a-Judge Evaluation Pipelines**.
